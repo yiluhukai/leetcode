@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d22cce70-2dbf-406f-a83c-91641fcb5d66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree/MaximumSumBstInBinaryTree.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree/MaximumSumBstInBinaryTree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1scToAyLNFlqrdvf5CpkwydbNOG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build leetcode/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree/MaximumSumBstInBinaryTree.go" />
+      <package value="leetcode/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build leetcode/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="517" height="646" key="DebuggerActiveHint" timestamp="1621171912700">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="517" height="646" key="DebuggerActiveHint/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621171912700" />
+    <state width="2516" height="514" key="GridCell.Tab.0.bottom" timestamp="1621172161437">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="514" key="GridCell.Tab.0.bottom/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161437" />
+    <state width="2516" height="514" key="GridCell.Tab.0.center" timestamp="1621172161436">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="514" key="GridCell.Tab.0.center/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161436" />
+    <state width="2516" height="514" key="GridCell.Tab.0.left" timestamp="1621172161435">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="514" key="GridCell.Tab.0.left/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161435" />
+    <state width="2516" height="514" key="GridCell.Tab.0.right" timestamp="1621172161436">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="514" key="GridCell.Tab.0.right/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161436" />
+    <state width="2516" height="514" key="GridCell.Tab.1.bottom" timestamp="1621172161439">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="514" key="GridCell.Tab.1.bottom/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161439" />
+    <state width="2516" height="514" key="GridCell.Tab.1.center" timestamp="1621172161438">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="514" key="GridCell.Tab.1.center/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161438" />
+    <state width="2516" height="514" key="GridCell.Tab.1.left" timestamp="1621172161437">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="514" key="GridCell.Tab.1.left/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161437" />
+    <state width="2516" height="514" key="GridCell.Tab.1.right" timestamp="1621172161438">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="514" key="GridCell.Tab.1.right/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161438" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1621177732828">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621177732828" />
+  </component>
+</project>
