@@ -11,6 +11,86 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/1526_MinimumNumberOfIncrementsOnSubarraysToFormATargetArray/MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/1526_MinimumNumberOfIncrementsOnSubarraysToFormATargetArray/MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.go" />
+              <option name="questionId" value="1633" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/208_ImplementTriePrefixTree/ImplementTriePrefixTree.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/208_ImplementTriePrefixTree/ImplementTriePrefixTree.go" />
+              <option name="questionId" value="208" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/211_DesignAddAndSearchWordsDataStructure/DesignAddAndSearchWordsDataStructure.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/211_DesignAddAndSearchWordsDataStructure/DesignAddAndSearchWordsDataStructure.go" />
+              <option name="questionId" value="211" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/215_KthLargestElementInAnArray/KthLargestElementInAnArray.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/215_KthLargestElementInAnArray/KthLargestElementInAnArray.go" />
+              <option name="questionId" value="215" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/307_RangeSumQueryMutable/RangeSumQueryMutable.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/307_RangeSumQueryMutable/RangeSumQueryMutable.go" />
+              <option name="questionId" value="307" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/373_FindKPairsWithSmallestSums/FindKPairsWithSmallestSums.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/373_FindKPairsWithSmallestSums/FindKPairsWithSmallestSums.go" />
+              <option name="questionId" value="373" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/450_DeleteNodeInABst/DeleteNodeInABst.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/450_DeleteNodeInABst/DeleteNodeInABst.go" />
+              <option name="questionId" value="450" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/538_ConvertBstToGreaterTree/ConvertBstToGreaterTree.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/538_ConvertBstToGreaterTree/ConvertBstToGreaterTree.go" />
+              <option name="questionId" value="538" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/676_ImplementMagicDictionary/ImplementMagicDictionary.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/676_ImplementMagicDictionary/ImplementMagicDictionary.go" />
+              <option name="questionId" value="676" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/692_TopKFrequentWords/TopKFrequentWords.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/692_TopKFrequentWords/TopKFrequentWords.go" />
+              <option name="questionId" value="692" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

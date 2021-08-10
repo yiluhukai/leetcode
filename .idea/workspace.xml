@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d22cce70-2dbf-406f-a83c-91641fcb5d66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree/MaximumSumBstInBinaryTree.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree/MaximumSumBstInBinaryTree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/538_ConvertBstToGreaterTree/ConvertBstToGreaterTree.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/538_ConvertBstToGreaterTree/ConvertBstToGreaterTree.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
@@ -20,13 +30,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Test.TestNewLineSegmentTree in leetcode/leetcode/editor/cn/lineSegmentTree">
     <configuration name="go build leetcode/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -36,8 +48,52 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build leetcode/leetcode/editor/cn/208_ImplementTriePrefixTree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/leetcode/editor/cn/208_ImplementTriePrefixTree/ImplementTriePrefixTree.go" />
+      <package value="leetcode/leetcode/editor/cn/208_ImplementTriePrefixTree" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build leetcode/leetcode/editor/cn/TrieTree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/leetcode/editor/cn/TrieTree/main.go" />
+      <package value="leetcode/leetcode/editor/cn/TrieTree" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestBuildHeap in leetcode/leetcode/editor/cn/heap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/leetcode/editor/cn/heap" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/leetcode/editor/cn/heap" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestBuildHeap\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewLineSegmentTree in leetcode/leetcode/editor/cn/lineSegmentTree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/leetcode/editor/cn/lineSegmentTree" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/leetcode/editor/cn/lineSegmentTree" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestNewLineSegmentTree\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestNewLineSegmentTree in leetcode/leetcode/editor/cn/lineSegmentTree" />
+        <item itemvalue="Go Test.TestBuildHeap in leetcode/leetcode/editor/cn/heap" />
+        <item itemvalue="Go Build.go build leetcode/leetcode/editor/cn/208_ImplementTriePrefixTree" />
+        <item itemvalue="Go Build.go build leetcode/leetcode/editor/cn/TrieTree" />
         <item itemvalue="Go Build.go build leetcode/leetcode/editor/cn/1373_MaximumSumBstInBinaryTree" />
       </list>
     </recent_temporary>
@@ -51,41 +107,65 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="517" height="646" key="DebuggerActiveHint/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621171912700" />
-    <state width="2516" height="514" key="GridCell.Tab.0.bottom" timestamp="1621172161437">
+    <state width="1258" height="419" key="GridCell.Tab.0.bottom" timestamp="1628004998732">
+      <screen x="0" y="25" width="2560" height="1326" />
+    </state>
+    <state width="1258" height="419" key="GridCell.Tab.0.bottom/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1628004535901" />
+    <state width="1258" height="419" key="GridCell.Tab.0.bottom/2560.25.1920.1055/0.25.2560.1326@0.25.2560.1326" timestamp="1628004998732" />
+    <state width="1258" height="419" key="GridCell.Tab.0.center" timestamp="1628004998731">
+      <screen x="0" y="25" width="2560" height="1326" />
+    </state>
+    <state width="1258" height="419" key="GridCell.Tab.0.center/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1628004535900" />
+    <state width="1258" height="419" key="GridCell.Tab.0.center/2560.25.1920.1055/0.25.2560.1326@0.25.2560.1326" timestamp="1628004998731" />
+    <state width="1258" height="419" key="GridCell.Tab.0.left" timestamp="1628004998731">
+      <screen x="0" y="25" width="2560" height="1326" />
+    </state>
+    <state width="1258" height="419" key="GridCell.Tab.0.left/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1628004535900" />
+    <state width="1258" height="419" key="GridCell.Tab.0.left/2560.25.1920.1055/0.25.2560.1326@0.25.2560.1326" timestamp="1628004998731" />
+    <state width="1258" height="419" key="GridCell.Tab.0.right" timestamp="1628004998732">
+      <screen x="0" y="25" width="2560" height="1326" />
+    </state>
+    <state width="1258" height="419" key="GridCell.Tab.0.right/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1628004535901" />
+    <state width="1258" height="419" key="GridCell.Tab.0.right/2560.25.1920.1055/0.25.2560.1326@0.25.2560.1326" timestamp="1628004998732" />
+    <state width="1258" height="514" key="GridCell.Tab.1.bottom" timestamp="1622475159132">
+      <screen x="0" y="25" width="2560" height="1326" />
+    </state>
+    <state width="1258" height="514" key="GridCell.Tab.1.bottom/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1622473621784" />
+    <state width="1258" height="514" key="GridCell.Tab.1.bottom/2560.25.1920.1055/0.25.2560.1326@0.25.2560.1326" timestamp="1622475159132" />
+    <state width="1258" height="514" key="GridCell.Tab.1.center" timestamp="1622475159131">
+      <screen x="0" y="25" width="2560" height="1326" />
+    </state>
+    <state width="1258" height="514" key="GridCell.Tab.1.center/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1622473621783" />
+    <state width="1258" height="514" key="GridCell.Tab.1.center/2560.25.1920.1055/0.25.2560.1326@0.25.2560.1326" timestamp="1622475159131" />
+    <state width="1258" height="514" key="GridCell.Tab.1.left" timestamp="1622475159131">
+      <screen x="0" y="25" width="2560" height="1326" />
+    </state>
+    <state width="1258" height="514" key="GridCell.Tab.1.left/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1622473621782" />
+    <state width="1258" height="514" key="GridCell.Tab.1.left/2560.25.1920.1055/0.25.2560.1326@0.25.2560.1326" timestamp="1622475159131" />
+    <state width="1258" height="514" key="GridCell.Tab.1.right" timestamp="1622475159132">
+      <screen x="0" y="25" width="2560" height="1326" />
+    </state>
+    <state width="1258" height="514" key="GridCell.Tab.1.right/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1622473621783" />
+    <state width="1258" height="514" key="GridCell.Tab.1.right/2560.25.1920.1055/0.25.2560.1326@0.25.2560.1326" timestamp="1622475159132" />
+    <state x="796" y="356" key="SettingsEditor" timestamp="1628437730351">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2516" height="514" key="GridCell.Tab.0.bottom/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161437" />
-    <state width="2516" height="514" key="GridCell.Tab.0.center" timestamp="1621172161436">
+    <state x="796" y="356" key="SettingsEditor/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1628437730351" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1627315790624">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2516" height="514" key="GridCell.Tab.0.center/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161436" />
-    <state width="2516" height="514" key="GridCell.Tab.0.left" timestamp="1621172161435">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2516" height="514" key="GridCell.Tab.0.left/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161435" />
-    <state width="2516" height="514" key="GridCell.Tab.0.right" timestamp="1621172161436">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2516" height="514" key="GridCell.Tab.0.right/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161436" />
-    <state width="2516" height="514" key="GridCell.Tab.1.bottom" timestamp="1621172161439">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2516" height="514" key="GridCell.Tab.1.bottom/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161439" />
-    <state width="2516" height="514" key="GridCell.Tab.1.center" timestamp="1621172161438">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2516" height="514" key="GridCell.Tab.1.center/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161438" />
-    <state width="2516" height="514" key="GridCell.Tab.1.left" timestamp="1621172161437">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2516" height="514" key="GridCell.Tab.1.left/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161437" />
-    <state width="2516" height="514" key="GridCell.Tab.1.right" timestamp="1621172161438">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2516" height="514" key="GridCell.Tab.1.right/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621172161438" />
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1621177732828">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1621177732828" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1626872446123" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1627315790624" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/TrieTree/main.go</url>
+          <line>131</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
