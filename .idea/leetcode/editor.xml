@@ -91,6 +91,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/743_NetworkDelayTime/NetworkDelayTime.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/743_NetworkDelayTime/NetworkDelayTime.go" />
+              <option name="questionId" value="744" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/面试题 04.01_RouteBetweenNodesLcci/RouteBetweenNodesLcci.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/面试题 04.01_RouteBetweenNodesLcci/RouteBetweenNodesLcci.go" />
+              <option name="questionId" value="100171" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
