@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,11 +165,11 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="983" y="295" width="594" height="849" key="find.popup/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1628952007445" />
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1629031197332">
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1629214177313">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1626872446123" />
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1629031197332" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1629214177313" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
